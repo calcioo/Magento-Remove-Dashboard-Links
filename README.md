@@ -26,6 +26,7 @@ Magento Remove Dashboard Links
     unset($_links['OAuth Customer Tokens']); /* My Applications */
     unset($_links['enterprise_reward']); /* Reward Points */
     unset($_links['giftregistry']); /* Gift Registry */
+    unset($_links['recurring_profiles']); /* recurring_profiles */
     unset($_links['downloadable_products']); /* My Downloadable Products */
     unset($_links['recurring_profiles']); /* Recurring Profiles */
     unset($_links['billing_agreements']); /* Billing Agreements */
